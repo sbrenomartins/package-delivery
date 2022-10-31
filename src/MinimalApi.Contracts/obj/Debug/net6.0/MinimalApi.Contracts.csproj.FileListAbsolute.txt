@@ -1,0 +1,12 @@
+C:\Users\brenomartinssilva_fr\source\repos\PackageDelivery\src\MinimalApi.Contracts\bin\Debug\net6.0\MinimalApi.Contracts.deps.json
+C:\Users\brenomartinssilva_fr\source\repos\PackageDelivery\src\MinimalApi.Contracts\bin\Debug\net6.0\MinimalApi.Contracts.dll
+C:\Users\brenomartinssilva_fr\source\repos\PackageDelivery\src\MinimalApi.Contracts\bin\Debug\net6.0\MinimalApi.Contracts.pdb
+C:\Users\brenomartinssilva_fr\source\repos\PackageDelivery\src\MinimalApi.Contracts\obj\Debug\net6.0\MinimalApi.Contracts.csproj.AssemblyReference.cache
+C:\Users\brenomartinssilva_fr\source\repos\PackageDelivery\src\MinimalApi.Contracts\obj\Debug\net6.0\MinimalApi.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brenomartinssilva_fr\source\repos\PackageDelivery\src\MinimalApi.Contracts\obj\Debug\net6.0\MinimalApi.Contracts.AssemblyInfoInputs.cache
+C:\Users\brenomartinssilva_fr\source\repos\PackageDelivery\src\MinimalApi.Contracts\obj\Debug\net6.0\MinimalApi.Contracts.AssemblyInfo.cs
+C:\Users\brenomartinssilva_fr\source\repos\PackageDelivery\src\MinimalApi.Contracts\obj\Debug\net6.0\MinimalApi.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\brenomartinssilva_fr\source\repos\PackageDelivery\src\MinimalApi.Contracts\obj\Debug\net6.0\MinimalApi.Contracts.dll
+C:\Users\brenomartinssilva_fr\source\repos\PackageDelivery\src\MinimalApi.Contracts\obj\Debug\net6.0\refint\MinimalApi.Contracts.dll
+C:\Users\brenomartinssilva_fr\source\repos\PackageDelivery\src\MinimalApi.Contracts\obj\Debug\net6.0\MinimalApi.Contracts.pdb
+C:\Users\brenomartinssilva_fr\source\repos\PackageDelivery\src\MinimalApi.Contracts\obj\Debug\net6.0\ref\MinimalApi.Contracts.dll
